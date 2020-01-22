@@ -8,3 +8,4 @@ dependencies:
   - ipywidgets
   - pythreejs
   - rise
+  - wordcloud
