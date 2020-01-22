@@ -1,4 +1,4 @@
-name: example-environment
+name: mvc-sp20
 channels:
   - conda-forge
 dependencies:
@@ -6,3 +6,5 @@ dependencies:
   - matplotlib
   - pandas
   - ipywidgets
+  - pythreejs
+  - rise
